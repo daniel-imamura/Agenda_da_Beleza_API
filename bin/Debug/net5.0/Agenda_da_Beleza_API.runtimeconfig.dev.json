@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Rosane\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Rosane\\.nuget\\packages"
+    ]
+  }
+}
